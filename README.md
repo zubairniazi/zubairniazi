@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/devzubairniazi" target="blank"><img src="https://img.shields.io/twitter/follow/devzubairniazi?logo=twitter&style=for-the-badge" alt="devzubairniazi" /></a> </p>
 
-- 🔭 I’m currently working on [InfoTech](https://grizzly.zubairniazi.com)
+- 🔭 I’m currently working on [Worko Developments](https://www.worko.dev)
 
-- 🌱 I’m currently learning **DevOps & Business Growth**
+- 🌱 I’m currently learning **Business Growth & SaaS Product Development**
 
 - 👨‍💻 All of my projects are available at [https://www.zubairniazi.com/projects](https://www.zubairniazi.com/projects)
 
 - 📝 I regularly write articles on [https://www.zubairniazi.com/blog](https://www.zubairniazi.com/blog)
 
-- 💬 Ask me about **Laravel, VILT & MERN**
+- 💬 Ask me about **Laravel, VILT & MERN, SaaS Products & Business Growth**
 
-- 📫 How to reach me **contact@zubairniazi.com**
+- 📫 How to reach me **hello@worko.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
