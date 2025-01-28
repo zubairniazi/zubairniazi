@@ -1,13 +1,13 @@
-[![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)](https://www.zubairniazi.com)
+[![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)](https://www.zubairmahboob.com)
 
 <h1 align="center">Hi 👋 I'm Zubair</h1>
-<h3 align="center">Founder of <a href="https://www.worko.dev/">Worko Dev</a>, Web Applications Development Expert</h3>
+<h3 align="center">Founder of <a href="https://www.worko.dev/">Worko Dev</a>, Full Stack Developer</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zubairniazi" alt="zubairniazi" /></a> </p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on [NextJS Starter Templates](https://store.worko.dev/)
+- 🔭 I mostly spent my time to building products for [Worko Dev Store](https://store.worko.dev/)
 
 - 🌱 I’m currently learning **Business Growth & SaaS Development**
 
@@ -15,12 +15,12 @@
 
 - 💬 Ask me about **Web Development and SaaS Development**
 
-- 📫 How to reach me **zubair@worko.dev**
+- 📫 Wanna work with me on your amazing product? Reach me at **zubair@worko.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/zubairmahboob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zubairmahboob" height="30" width="40" /></a>
-<a href="https://dev.to/zubairniazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="zubairniazi" height="30" width="40" /></a>
+<a href="https://dev.to/zubairmahboob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="zubairniazi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
