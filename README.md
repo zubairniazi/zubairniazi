@@ -1,10 +1,9 @@
 # About Me
 Skip the headaches of buggy code and missed deadlines. I'm a full-stack developer who combines technical excellence with clear communication to deliver results that matter to your business.
 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zubair@worko.dev) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:info@zubairmahboob.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zubairmahboob) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/codewzubair) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codewzubair)
 
 ## ✨ Why Choose Me?
 👉 Transparent communication with regular updates
@@ -55,7 +54,7 @@ Skip the headaches of buggy code and missed deadlines. I'm a full-stack develope
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 🏢 Industries:
-♦ Healthcare ♦ FinTech ♦ E-commerce ♦ SaaS ♦ Real Estate ♦ Education
+♦ Education ♦ Healthcare ♦ E-commerce ♦ SaaS ♦ Real Estate
 
 [See What I’ve Built](https://www.zubairmahboob.com/)
 
