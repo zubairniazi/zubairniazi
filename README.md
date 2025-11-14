@@ -1,10 +1,18 @@
 # About Me
-Skip the headaches of buggy code and missed deadlines. I'm a full-stack developer who combines technical excellence with clear communication to deliver results that matter to your business.
+I build websites that work like growth engines, not just digital brochures. 
+
+7+ years. 46+ success stories. 
+
+If your business needs a system that attracts, converts, and scales — let’s talk.
+
+[See What I’ve Built](https://www.zubairmahboob.com/)
 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:info@zubairmahboob.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zubairmahboob) 
 
-## ✨ Why Choose Me?
+
+
+## Why Choose Me?
 👉 Transparent communication with regular updates
 
 👉 Clean, documented, and maintainable code
@@ -15,7 +23,7 @@ Skip the headaches of buggy code and missed deadlines. I'm a full-stack develope
 
 👉 On-time delivery
 
-## 🎯 Specializations:
+## Specializations
 ✅ SaaS Applications & Dashboards
 
 ✅ E-commerce Platforms
@@ -26,12 +34,13 @@ Skip the headaches of buggy code and missed deadlines. I'm a full-stack develope
 
 ✅ Legacy System Modernization
 
-## ⚡ Tech Stack
+## Tech Stack
 #### Backend
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
 ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
 #### Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -52,12 +61,8 @@ Skip the headaches of buggy code and missed deadlines. I'm a full-stack develope
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-## 🏢 Industries:
+## Industries
 ♦ Education ♦ Healthcare ♦ E-commerce ♦ SaaS ♦ Real Estate
-
-[See What I’ve Built](https://www.zubairmahboob.com/)
-
-🤝 Let's build something amazing together!
 
 <!--
 # GitHub Stats
