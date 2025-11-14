@@ -3,7 +3,6 @@ Skip the headaches of buggy code and missed deadlines. I'm a full-stack develope
 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:info@zubairmahboob.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zubairmahboob) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/codewzubair) 
 
 ## ✨ Why Choose Me?
 👉 Transparent communication with regular updates
