@@ -1,9 +1,7 @@
 # About Me
-I build websites that work like growth engines, not just digital brochures. 
+Product‑focused software engineer with 7+ years building production web applications for startups and remote teams.
 
-7+ years. 46+ success stories. 
-
-If your business needs a system that attracts, converts, and scales — let’s talk.
+Now I focus on building independent products and documenting the journey publicly.
 
 [See What I’ve Built](https://www.zubairmahboob.com/)
 
